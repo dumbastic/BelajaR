@@ -5,10 +5,12 @@
 #1
 v_hobi_saya = c("sepak bola", "menulis", "otomotif")
 v_hobi_saya
+str(hobi_saya)
 
 #2
 matrix_ganjil_saya = matrix(c(1, 3, 5, 7, 9, 11), byrow = T, nrow = 2)
 matrix_ganjil_saya
+str(matrix_ganjil_saya)
 
 #3
 df_harga_makanan = data.frame(
